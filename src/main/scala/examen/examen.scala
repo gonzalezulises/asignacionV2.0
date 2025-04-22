@@ -19,6 +19,7 @@ object examen {
   def ejercicio1(estudiantes: DataFrame): DataFrame = {
     estudiantes.printSchema()
     estudiantes
+      .filter("calificacion > 8")
       .select("nombre")
       .orderBy(desc("calificacion"))
   }
