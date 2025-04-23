@@ -16,13 +16,12 @@ object examen {
    *          Filtra los estudiantes con una calificación mayor a 8.
    *          Selecciona los nombres de los estudiantes y ordénalos por calificación de forma descendente.
    */
-  def ejercicio1(estudiantes: DataFrame): DataFrame = {
-    estudiantes.printSchema()
-    estudiantes
-      .filter("calificacion > 8")
-      .select("nombre")
-      .orderBy(desc("calificacion"))
-  }
+ def ejercicio1(estudiantes: DataFrame): DataFrame = {
+  estudiantes.printSchema()
+  estudiantes
+    .orderBy(desc("calificacion"))
+    .select("nombre")
+}
 
   /**
    * Ejercicio 2: UDF (User Defined Function)
