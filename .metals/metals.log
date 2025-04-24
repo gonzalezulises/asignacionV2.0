@@ -1,0 +1,22 @@
+2025.04.23 21:50:38 INFO  Started: Metals version 1.5.2 in folders '/Users/gonzalezulises/asignacionV2.0/asignacionV2.0-1' for client Visual Studio Code 1.99.3.
+2025.04.23 21:50:44 INFO  running '/Users/gonzalezulises/Library/Java/JavaVirtualMachines/corretto-18.0.2/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -Dsbt.version=1.10.11 -jar /var/folders/xz/cy4m1yx914dd0zx5s4lc56k00000gn/T/metals14923142838084935050/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2025.04.23 21:50:44 INFO  no build target found for /Users/gonzalezulises/asignacionV2.0/asignacionV2.0-1/project/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.23 21:50:44 WARN  no build target for: /Users/gonzalezulises/asignacionV2.0/asignacionV2.0-1/project/metals.sbt
+2025.04.23 21:50:44 WARN  no build target for: /Users/gonzalezulises/asignacionV2.0/asignacionV2.0-1/project/project/metals.sbt
+2025.04.23 21:50:45 INFO  [info] Updated file /Users/gonzalezulises/asignacionV2.0/asignacionV2.0-1/project/build.properties: set sbt.version to 1.10.11
+2025.04.23 21:50:45 INFO  [info] welcome to sbt 1.10.11 (Amazon.com Inc. Java 18.0.2)
+2025.04.23 21:50:45 INFO  [info] loading settings for project asignacionv2-0-1-build-build from metals.sbt...
+2025.04.23 21:50:46 INFO  [info] loading project definition from /Users/gonzalezulises/asignacionV2.0/asignacionV2.0-1/project/project
+2025.04.23 21:50:49 INFO  [info] loading settings for project asignacionv2-0-1-build from metals.sbt...
+2025.04.23 21:50:49 INFO  [info] loading project definition from /Users/gonzalezulises/asignacionV2.0/asignacionV2.0-1/project
+2025.04.23 21:50:54 INFO  [success] Generated .bloop/asignacionv2-0-1-build.json
+2025.04.23 21:50:54 INFO  [success] Total time: 5 s, completed Apr 23, 2025, 9:50:54 PM
+2025.04.23 21:50:54 INFO  [info] loading settings for project root from build.sbt...
+2025.04.23 21:50:54 INFO  [info] set current project to examen-spark-scala (in build file:/Users/gonzalezulises/asignacionV2.0/asignacionV2.0-1/)
+2025.04.23 21:51:08 INFO  no build target found for /Users/gonzalezulises/asignacionV2.0/asignacionV2.0-1/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.23 21:51:29 INFO  [success] Generated .bloop/root.json
+2025.04.23 21:51:29 INFO  [success] Generated .bloop/root-test.json
+2025.04.23 21:51:29 INFO  [success] Total time: 34 s, completed Apr 23, 2025, 9:51:29 PM
+2025.04.23 21:51:29 INFO  time: ran 'sbt bloopInstall' in 44s
+2025.04.23 21:51:29 INFO  Attempting to connect to the build server...
+2025.04.23 21:51:29 INFO  No running Bloop server found, starting one.
