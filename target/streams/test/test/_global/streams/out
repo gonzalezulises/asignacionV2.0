@@ -1,0 +1,22 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(examen.examenTest, org.scalatest.tools.Framework$$anon$1@7ab99496, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(utils.TestInit, org.scalatest.tools.Framework$$anon$1@7ab99496, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTestInit:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mexamenTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mEjercicio 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should Selecciona los nombres de los estudiantes y ordénalos por calificación de forma descendente[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mEjercicio 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should Devuelve los datos paritarios[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mEjercicio 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calcula el promedio de calificaciones por estudiante[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mEjercicio 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should cuenta la cantidad de ocurrencias de cada palabra[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mEjercicio 5[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calcula el ingreso total[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 4 seconds, 764 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 5[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 2, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 5, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	utils.TestInit[0m
+[0m[[0m[0mdebug[0m] [0m[0m	examen.examenTest[0m

@@ -1,4 +1,4 @@
-[debug] [asignacionv2-0-1-build] Classpath dependencies List()
-[debug] [asignacionv2-0-1-build] Dependencies from configurations List()
-[debug] Bloop wrote the configuration of project 'asignacionv2-0-1-build' to '/Users/gonzalezulises/asignacionV2.0/asignacionV2.0-1/project/.bloop/asignacionv2-0-1-build.json'
-[success] Generated .bloop/asignacionv2-0-1-build.json
+[0m[[0m[0mdebug[0m] [0m[0m[asignacionv2-0-1-build] Classpath dependencies List()[0m
+[0m[[0m[0mdebug[0m] [0m[0m[asignacionv2-0-1-build] Dependencies from configurations List()[0m
+[0m[[0m[0mdebug[0m] [0m[0mBloop wrote the configuration of project 'asignacionv2-0-1-build' to '/Users/gonzalezulises/asignacionV2.0/asignacionV2.0-1/project/.bloop/asignacionv2-0-1-build.json'[0m
+[0m[[0m[32msuccess[0m] [0m[0mGenerated .bloop/asignacionv2-0-1-build.json[0m

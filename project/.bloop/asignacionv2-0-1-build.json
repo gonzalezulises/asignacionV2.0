@@ -213,7 +213,7 @@
         "platform": {
             "name": "jvm",
             "config": {
-                "home": "/Users/gonzalezulises/Library/Java/JavaVirtualMachines/corretto-18.0.2/Contents/Home",
+                "home": "/opt/homebrew/Cellar/openjdk@11/11.0.27/libexec/openjdk.jdk/Contents/Home",
                 "options": [
                     "-Duser.dir=/Users/gonzalezulises/asignacionV2.0/asignacionV2.0-1/project"
                 ]
@@ -222,7 +222,7 @@
                 
             ],
             "runtimeConfig": {
-                "home": "/Users/gonzalezulises/Library/Java/JavaVirtualMachines/corretto-18.0.2/Contents/Home",
+                "home": "/opt/homebrew/Cellar/openjdk@11/11.0.27/libexec/openjdk.jdk/Contents/Home",
                 "options": [
                     "-Duser.dir=/Users/gonzalezulises/asignacionV2.0/asignacionV2.0-1/project"
                 ]

@@ -19,7 +19,7 @@ class examenTest extends TestInit {
 
   val out = ejercicio1(estudiantes).collect().map(_.getString(0))
 
-  out shouldBe List("Maria", "Ana")
+  out shouldBe List("Maria", "Ana", "Pedro")
 }
 
   "Ejercicio 2" should "Devuelve los datos paritarios" in {
