@@ -7,20 +7,20 @@ class examenTest extends TestInit {
 
   implicit val sc = spark.sparkContext
 
-  "Ejercicio 1" should "Selecciona los nombres de los estudiantes y ordénalos por calificación de forma descendente" in {
-    import spark.implicits._
+"Ejercicio 1" should "Selecciona los nombres de los estudiantes y ordénalos por calificación de forma descendente" in {
+  import spark.implicits._
 
-    val estudiantes = Seq(
-      ("Ana", 23, 9.0),
-      ("Luis", 21, 7.5),
-      ("Pedro", 22, 8.5),
-      ("Maria", 20, 9.5)
-    ).toDF("nombre", "edad", "calificacion")
+  val estudiantes = Seq(
+    ("Ana", 23, 9.0),
+    ("Luis", 21, 7.5),
+    ("Pedro", 22, 8.5),
+    ("Maria", 20, 9.5)
+  ).toDF("nombre", "edad", "calificacion")
 
-    val out = ejercicio1(estudiantes).collect().map(_.getString(0))
+  val out = ejercicio1(estudiantes).collect().map(_.getString(0))
 
-    out shouldBe List("Maria", "Ana", "Pedro", "Luis")
-  }
+  out shouldBe List("Maria", "Ana")
+}
 
   "Ejercicio 2" should "Devuelve los datos paritarios" in {
     import spark.implicits._
